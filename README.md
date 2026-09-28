@@ -6,7 +6,7 @@ I build governed data platforms that people can trust: from raw source data thro
 
 - 🔭 **Currently:** building my Kogod capstone (coming later this term) and extending a medallion data platform on Azure Databricks
 - 🌱 **Learning:** dbt, Snowflake, Dagster, and production RAG patterns
-- 🤝 **Open to:** analytics engineering, data engineering, and BI roles in healthcare, biotech, and pharmaceutical organizations
+- 🤝 **Open to:** analytics engineering, data engineering, and BI roles in consulting, healthcare, biotech, and pharmaceutical organizations
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kanojerera) · kanojerera@gmail.com
 
 ---
