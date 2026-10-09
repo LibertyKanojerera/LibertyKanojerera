@@ -39,4 +39,4 @@ I build governed data platforms that people can trust: from raw source data thro
 
 - **Grand Prize**, USAID Science & Technology Pioneers Prize (2014), for DTTU logistics software
 - **3rd Place**, Stevan Holmberg AI & Healthcare Innovation Competition, American University (2026)
-- **Finalist**, Veloric Entrepreneurship AI Challenge (2025)
+- **3rd Place**, Veloric Entrepreneurship AI Challenge (2025)
